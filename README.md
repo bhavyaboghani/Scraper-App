@@ -16,7 +16,7 @@ Scrapper App is a Python web application designed to extract data from popular w
    ```
 2. Clone the repository into the `Downloads` folder of your system.
    ```
-   https://github.com/bhavyaboghani/Scraper-App.git
+   git clone https://github.com/bhavyaboghani/Scraper-App.git
    ```
 3. Navigate to the `Scraper_App` directory in `Downloads`:
    ```
@@ -37,7 +37,7 @@ Scrapper App is a Python web application designed to extract data from popular w
    ```
 2. Clone the repository into the `Downloads` folder of your system.
    ```
-   https://github.com/bhavyaboghani/Scraper-App.git
+   git clone https://github.com/bhavyaboghani/Scraper-App.git
    ```
 3. Navigate to the `Scraper_App` directory in `Downloads`:
    ```
